@@ -1,0 +1,5 @@
+/workspaces/BotNet/build/CMakeFiles/server.dir
+/workspaces/BotNet/build/CMakeFiles/controller.dir
+/workspaces/BotNet/build/CMakeFiles/infected.dir
+/workspaces/BotNet/build/CMakeFiles/edit_cache.dir
+/workspaces/BotNet/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+Os scripts são para linux, atualmente,***todos***

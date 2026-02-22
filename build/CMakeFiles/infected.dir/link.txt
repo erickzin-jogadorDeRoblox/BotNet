@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/infected.dir/src/infected.cpp.o -o infected  -lpthread 
